@@ -13,14 +13,16 @@ h1 {
 
 h2 {
     font-size:32px;
+    text-align: left;
 }
 
 .citation {
-    font-size:16px;
+    font-size:12px;
 }
 
 body {
     background-color:DarkSlateGray;
+    text-align: center;
 }
 
 .li1 {
@@ -31,4 +33,10 @@ body {
 a {
     color:Cyan;
 }
+
+.milestone {
+    font-size:20px;
+}
+
+
 
