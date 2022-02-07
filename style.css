@@ -73,3 +73,11 @@ a {
 ol li {
     list-style-type: none;
 }
+
+table {
+    color: ghostwhite;
+}
+
+table {
+    border:white;
+}
