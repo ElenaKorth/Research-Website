@@ -97,7 +97,7 @@ h3 {
 }
 
 .index-img {
-    height: 200px;
+    height: 250px;
 }
 
 .index-table {
@@ -117,4 +117,8 @@ hr {
     height: 1px;
     border: none;
     background-color: lightsteelblue;
+}
+
+h3 {
+    margin-top: 0%;
 }
