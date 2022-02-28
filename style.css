@@ -5,12 +5,6 @@ img {
     margin-right: auto;
 }
 
-li {
-    list-style-position: inside;
-    font-size:40px;
-    text-align: left;
-}
-
 h1 {
     font-size:40px;
     color:ghostwhite;
@@ -33,11 +27,6 @@ body {
     margin-right: 50px;
 }
 
-.li1 {
-    background-color:#5C5EBD;
-    color:GhostWhite;
-}
-
 a {
     color:Cyan;
 }
@@ -50,34 +39,82 @@ a {
     margin-top: 0px;
 }
 
-.li2 {
-    background-color:#8B5CBD;
-    color:GhostWhite;
-}
-
-.li3 {
-    background-color:#BB5CBD;
-    color:GhostWhite;
-}
-
-.li4 {
-    background-color:#5C8FBD;
-    color:GhostWhite;
-}
-
-.li5 {
-    background-color:#5CBDBB;
-    color:GhostWhite;
-}
-
-ol li {
-    list-style-type: none;
-}
-
 table {
     color: ghostwhite;
 }
 
-table {
-    border:white;
+.img-link {
+    height: 100px;
+}
+
+.nav-table {
+    table-layout: fixed;
+    width: 900px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-iphone1 {
+    background-color: #5C5EBD;
+    color: ghostwhite;
+}
+
+.bg-iphone3 {
+    background-color: #8B5CBD;
+    color: ghostwhite;
+}
+
+.bg-iphone5 {
+    background-color: #BB5CBD;
+    color: ghostwhite;
+}
+
+.bg-iphone6 {
+    background-color: #5C8FBD;
+    color: ghostwhite;
+}
+
+.bg-iphonex {
+    background-color: #5CBDBB;
+    color: ghostwhite;
+}
+
+.info {
+    text-align: center;
+}
+
+.d-table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    font-size: 20px;
+}
+
+h3 {
+    color: ghostwhite;
+    text-align: center;
+}
+
+.index-img {
+    height: 200px;
+}
+
+.index-table {
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    border-color: ghostwhite;
+    border-width: 5px;
+}
+
+.footer {
+    color: lightsteelblue;
+    text-align: left;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background-color: lightsteelblue;
 }
